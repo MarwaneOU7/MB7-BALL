@@ -1,0 +1,50 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                       ┃
+┃               🎾 APPLICATION PRÊTE À LANCER! 🎾                      ┃
+┃                                                                       ┃
+┃     Fichier: bouncing_balls.html                                     ┃
+┃                                                                       ┃
+┃     Double-clic pour lancer dans votre navigateur!                   ┃
+┃     (Pas d'installation requise)                                     ┃
+┃                                                                       ┃
+┃     Cliquez sur le canvas pour ajouter des balles                    ┃
+┃     Ajustez les sliders pour modifier la physique                    ┃
+┃     Consultez les stats en direct                                    ┃
+┃                                                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+📁 Dossier: C:\Users\Marouan\PROJECT JEUX\bouncing_balls\
+
+📄 Fichiers importants:
+
+   🎮 bouncing_balls.html
+      → Version interactive web (prête maintenant!)
+      → Clic droit → Ouvrir avec → Navigateur
+
+   📚 Documentation:
+      • LANCER_APPLICATION.md (guide rapide)
+      • README.md (guide complet)
+      • PHYSICS_CONCEPTS.md (concepts)
+      • CODE_GUIDE.md (explication code)
+
+   💻 Code source C (si vous avez MinGW):
+      • src/main.c
+      • src/ball.c
+      • src/physics.c
+      • src/game.c
+      • Makefile
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  1️⃣  Ouvrez bouncing_balls.html                                      ┃
+┃  2️⃣  Cliquez pour ajouter des balles                                 ┃
+┃  3️⃣  Ajustez la physique avec les sliders                            ┃
+┃  4️⃣  Consultez LANCER_APPLICATION.md pour plus                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+Application créée avec:
+✨ HTML5 Canvas (rendu)
+✨ JavaScript vanilla (physique)
+✨ Même algorithmes que version C
+✨ Interface responsive
+
+Bon projet! 🚀
