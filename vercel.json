@@ -2,26 +2,6 @@
   "name": "bouncing-balls",
   "version": 2,
   "public": true,
-  "buildCommand": "",
-  "outputDirectory": ".",
-  "framework": "static",
-  "devCommand": "cd . && python -m http.server 3000",
-  "env": [],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/bouncing_balls.html"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=3600"
-        }
-      ]
-    }
-  ]
+  "buildCommand": "echo 'Static site - no build needed'",
+  "outputDirectory": "."
 }
