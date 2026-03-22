@@ -1,0 +1,55 @@
+🚀 ONE-CLICK DEPLOYMENT - YOUR APPLICATION IS READY!
+
+═════════════════════════════════════════════════════════════════════════════
+
+⚡ FASTEST WAY TO DEPLOY (30 SECONDS):
+
+Click this link to deploy your app to Vercel:
+
+👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇
+
+https://vercel.com/import/git?repo=https://github.com/MarwaneOU7/MB7-BALL
+
+👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆 👆
+
+═════════════════════════════════════════════════════════════════════════════
+
+WHAT HAPPENS:
+
+1. Click the link above ⬆️
+2. Vercel opens → Click "Import"
+3. Wait 1-2 minutes for deployment
+4. Your app goes LIVE ✨
+
+YOUR APP URL WILL BE:
+   https://mb7-ball-[random].vercel.app
+
+═════════════════════════════════════════════════════════════════════════════
+
+✅ ALREADY PREPARED FOR YOU:
+
+✅ HTML5 Interactive Application       (bouncing_balls.html)
+✅ C Source Code                       (7 files in src/)
+✅ Vercel Configuration                (vercel.json)
+✅ NPM Configuration                   (package.json)
+✅ GitHub Repository Synced            (MB7-BALL)
+✅ Documentation Complete              (12+ files)
+✅ Local Server Running                (http://localhost:8765)
+
+═════════════════════════════════════════════════════════════════════════════
+
+CURRENT STATUS:
+
+Repository:    https://github.com/MarwaneOU7/MB7-BALL ✅
+Local Test:    http://localhost:8765/bouncing_balls.html ✅
+Configuration: Production-ready ✅
+Documentation: Complete ✅
+
+═════════════════════════════════════════════════════════════════════════════
+
+🎯 ACTION REQUIRED:
+
+Click the Vercel import link above and your app will be deployed automatically.
+That's it! No coding, no complex setup required.
+
+═════════════════════════════════════════════════════════════════════════════
