@@ -1,0 +1,26 @@
+{
+  "name": "bouncing-balls-physics-simulation",
+  "version": "1.0.0",
+  "description": "Interactive physics simulation of bouncing balls using HTML5 Canvas and JavaScript. Educational project featuring gravity, collisions, and elasticity.",
+  "main": "bouncing_balls.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "physics",
+    "simulation",
+    "canvas",
+    "gravity",
+    "collision",
+    "bouncing",
+    "interactive"
+  ],
+  "author": "Marouan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarwaneOU7/MB7-BALL.git"
+  },
+  "homepage": "https://github.com/MarwaneOU7/MB7-BALL#readme"
+}
